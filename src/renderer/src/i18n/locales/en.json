@@ -24534,6 +24534,23 @@
     "signedOutDetail": "The next {{agent}} you start there asks to sign in.",
     "signOutFailed": "Could not sign out on {{host}}.",
     "menuLabel": "Agents on {{host}}",
-    "signOutOf": "Sign out of {{agent}}"
+    "signOutOf": "Sign out of {{agent}}",
+    "otherAccount": "Not your usual account.",
+    "otherAccountDetail": "This computer uses {{email}} for {{agent}}.",
+    "switchAccount": "Switch account",
+    "switchAccountDetail": "Switch accounts in your browser, then start {{agent}} there again to sign in.",
+    "otherAccountToast": "{{agent}} on {{host}} is signed in as {{email}}"
+  },
+  "vmBuildAgentSignIn": {
+    "optional": "optional",
+    "idleDetail": "Or sign in when you first start one.",
+    "signInBoth": "Sign in {{first}} + {{second}}",
+    "signInOne": "Sign in {{agent}}",
+    "next": "{{agent}} next",
+    "waiting": "{{agent}}: finish in your browser",
+    "signed": "{{agent}}: signed in",
+    "starting": "{{agent}}: starting sign-in…",
+    "title": "Agent sign-in",
+    "otherAccount": "{{agent}} signed in as {{email}}."
   }
 }
