@@ -24551,6 +24551,7 @@
     "signed": "{{agent}}: signed in",
     "starting": "{{agent}}: starting sign-in…",
     "title": "Agent sign-in",
-    "otherAccount": "{{agent}} signed in as {{email}}."
+    "otherAccount": "{{agent}} signed in as {{email}}.",
+    "continueBelow": "{{agent}}: continue below"
   }
 }
