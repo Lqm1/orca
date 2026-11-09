@@ -3248,7 +3248,6 @@
             "a3346fc6ed": "Cancelar creación del worktree",
             "532aea14ce": "Cancelar",
             "767951265d": "Algo salió mal al crear el worktree.",
-            "vmProvisioningTitle": "Provisionando VM",
             "cancelProvisioning": "Cancelar",
             "vmProvisioningLogEmpty": "Esperando output de la receta..."
           }
@@ -4610,6 +4609,9 @@
             "accounts": "Cuentas de Antigravity guardadas",
             "readAgo": "Consultado {{time}}",
             "notRead": "Uso desconocido: aún no consultado"
+          },
+          "InlineUsageBars": {
+            "resetsAt": "Se restablece a las {{when}}"
           }
         }
       },

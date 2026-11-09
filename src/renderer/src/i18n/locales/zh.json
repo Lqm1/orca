@@ -3190,7 +3190,6 @@
             "a3346fc6ed": "取消工作树创建",
             "532aea14ce": "取消",
             "767951265d": "创建工作树时出现问题。",
-            "vmProvisioningTitle": "正在预配虚拟机",
             "cancelProvisioning": "取消",
             "vmProvisioningLogEmpty": "正在等待环境模板输出…"
           }
@@ -4474,6 +4473,9 @@
             "accounts": "已保存的 Antigravity 账户",
             "readAgo": "读取于 {{time}}",
             "notRead": "用量未知：尚未读取"
+          },
+          "InlineUsageBars": {
+            "resetsAt": "将在 {{when}} 重置"
           }
         }
       },
@@ -14845,7 +14847,7 @@
         "terminal": {
           "FloatingTerminalIconContextMenu": {
             "8e7d775287": "隐藏浮动工作区",
-            "763f5fa2c1": "手机到浮动按钮",
+            "763f5fa2c1": "移至浮动按钮",
             "0ee79e0674": "移至状态栏"
           },
           "FloatingTerminalOrchestrationDialog": {

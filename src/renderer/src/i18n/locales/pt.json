@@ -3629,6 +3629,9 @@
             "accounts": "Contas Antigravity salvas",
             "readAgo": "Lido {{time}}",
             "notRead": "Uso desconhecido: ainda não consultado"
+          },
+          "InlineUsageBars": {
+            "resetsAt": "Redefinição em {{when}}"
           }
         }
       },
@@ -19499,7 +19502,6 @@
             "a3346fc6ed": "Cancelar criação da worktree",
             "532aea14ce": "Cancelar",
             "767951265d": "Algo deu errado ao criar a worktree.",
-            "vmProvisioningTitle": "Provisionando VM",
             "cancelProvisioning": "Cancelar",
             "vmProvisioningLogEmpty": "Esperando a saída da receita…"
           }
